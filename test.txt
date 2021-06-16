@@ -11,3 +11,4 @@ this is test merge confilict
 this is test merge confilict
 this branch is master
 add some things in new-fix
+add some things in master
