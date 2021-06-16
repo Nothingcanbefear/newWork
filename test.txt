@@ -5,7 +5,7 @@ this is test merge confilict
 this is test merge confilict 
 this is test merge confilict 
 this is test merge confilict 
-this is test merge confilict 
+this is test merge confilict add some things after new-fix add some things 
 this is test merge confilict 
 this is test merge confilict 
 this is test merge confilict
