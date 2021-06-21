@@ -1,0 +1,15 @@
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict add some things after new-fix add some things 
+this is test merge confilict 
+this is test merge confilict 
+this is test merge confilict
+this branch is master
+add some things in new-fix
+add some things in master
+second add some things in new-fix
